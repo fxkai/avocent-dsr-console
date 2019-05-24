@@ -2,7 +2,7 @@
 
 Start Avocent DSR (and other/older Avocent based KVM switches) from the console
 
-Tested on MacOS X 10.14 with Oracle Java 1.8.0u151 against an Avocent DSR 2030 and its latest firmware from 2016. Should work with older/other models as well
+Tested on MacOS X 10.14 with Oracle Java ~~1.8.0u151~~ 1.8.0u211 against an Avocent DSR 2030 and its latest firmware from 2016. Should work with older/other models as well, Dell iDRAC support is planned
 
 ```
 Usage : ./avws.sh <IP> <user> <pass> <kvm-slot>
